@@ -1,0 +1,5 @@
+Juan Cruz Muñoz
+Abril Constanzo
+Roberta Gabor
+A)Si, Como alfa puedo ver que commit hizo Beta o Gamma
+B)Si, Ambos Beta y Gamma pueden ver cuando hice commit y que hice
